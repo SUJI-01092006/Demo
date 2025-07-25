@@ -25,7 +25,7 @@ A full stack Flask-based productivity web app for students to:
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live app](https://your-live-link.onrender.com)
+🔗 [Click here to view the live app](http://127.0.0.1:5000/)
 
 ---
 
